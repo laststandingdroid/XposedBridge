@@ -542,3 +542,4 @@ public final class XposedBridge {
 		}
 	}
 }
+
